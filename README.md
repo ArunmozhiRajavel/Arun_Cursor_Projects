@@ -1,5 +1,8 @@
 # Nudger App
 
+##Log
+Day 1 : Vibe coded with cursor AI and was almost ready. Then I ran into weird space and configuration issue between android stuio and cursor
+
 ##Inspiration
 With all the talk around Vibe Coding, I wanted to check I can also build something for my own. This is going to be my first android project and I will use cursor to build it without coding. The core feature of this project "Nudge" was a feature that existed in now extinct app "Hike". All you need to do is double tap on a chat with a person and they will get a vibrating notification.Sort of a virtual tap on the shoulder. This is something that my partner used to like a lot. Lets see if I cab bring it back into existence
 
